@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b439761-adca-494f-a9ce-a1c1f8255668" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-    </list>
+    <list default="true" id="5b439761-adca-494f-a9ce-a1c1f8255668" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +82,7 @@
       <updated>1576974546295</updated>
       <workItem from="1576974563373" duration="1852000" />
       <workItem from="1577008523478" duration="3292000" />
-      <workItem from="1577048859863" duration="103000" />
+      <workItem from="1577048859863" duration="930000" />
     </task>
     <servers />
   </component>
