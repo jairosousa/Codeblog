@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b439761-adca-494f-a9ce-a1c1f8255668" name="Default Changelist" comment="" />
+    <list default="true" id="5b439761-adca-494f-a9ce-a1c1f8255668" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,12 +84,24 @@
       <updated>1576974546295</updated>
       <workItem from="1576974563373" duration="1852000" />
       <workItem from="1577008523478" duration="3292000" />
-      <workItem from="1577048859863" duration="930000" />
+      <workItem from="1577048859863" duration="1444000" />
     </task>
+    <task id="LOCAL-00001" summary="Update arquivo .travis.yml">
+      <created>1577050488103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577050488103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update arquivo .travis.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update arquivo .travis.yml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1577010519072">
@@ -98,9 +112,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="112" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1576974750301" />
-    <state x="259" y="0" key="CommitChangelistDialog2" timestamp="1577009759745">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="364" y="0" key="CommitChangelistDialog2" timestamp="1577050477941">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="364" y="0" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577050477941" />
     <state x="259" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577009759745" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1576974817670">
       <screen x="0" y="0" width="1366" height="728" />
@@ -142,9 +157,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1577009745742" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577009758880">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="387" y="139" key="Vcs.Push.Dialog.v2" timestamp="1577050493915">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="387" y="139" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577050493915" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577009758880" />
     <state x="540" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1577048898504">
       <screen x="0" y="0" width="1920" height="1040" />
