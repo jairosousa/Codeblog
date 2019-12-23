@@ -3,4 +3,4 @@ sudo: true
 jdk:
   - oraclejdk13
 before_install:
-  - chmod +x mvnw -DskipTests=false -Dmaven.javadoc.skip=true -B -V
+  - chmod +x mvnw -DskipTests=false
