@@ -4,5 +4,3 @@ dist: trusty
 jdk:
   - oraclejdk13
   - openjdk13
-before_install:
-  - chmod +x mvn
