@@ -1,6 +1,6 @@
 language: java
-sudo: true
+sudo: false
 jdk:
   - oraclejdk13
 before_install:
-  - chmod +x mvnw -DskipTests=false
+  - chmod +x mvnw
