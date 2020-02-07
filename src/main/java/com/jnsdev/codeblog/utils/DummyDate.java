@@ -21,7 +21,7 @@ public class DummyDate {
      * senão vai ficar gerando novos dois registros no banco
      * toda vez que reiniciar o servidor.
      */
-    //@PostConstruct
+    @PostConstruct
     public void savePost(){
         List<Post> postList = new ArrayList<>();
 
