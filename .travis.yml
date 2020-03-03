@@ -1,5 +1,4 @@
 language: java
-sudo: false
 jdk:
   - oraclejdk13
 before_install:
@@ -10,4 +9,3 @@ deploy:
   api_key:
     - secure: $SECURE_KEY
   app: $APP
-  skip_cleanup: true
