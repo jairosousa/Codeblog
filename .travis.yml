@@ -8,5 +8,6 @@ before_install:
 deploy:
   provider: heroku
   api_key:
-    - secure: 463935f8-4afe-457b-bce3-efd426b0f598
+    - secure: $SECURE_KEY
   app: $APP
+  skip_cleanup: true
