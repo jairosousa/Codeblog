@@ -4,3 +4,9 @@ jdk:
 before_install:
   - chmod +x mvnw
   - export TZ=Brazil/East
+deploy:
+ provider: heroku
+ api_key:
+   secure: $(heroku auth:token)
+ on:
+   all_branches: true 
